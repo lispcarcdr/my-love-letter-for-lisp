@@ -1,7 +1,7 @@
 # My Love Letter for Lisp 
 > Note: Written with Full of Typos
 
-Oh Lisp, my beloved langauge, how do I even begin? I’ve wirtten code in C, I’ve dabled in Ruby, but nothing—*nothing*—prepared me for you. 
+Oh Lisp, my langauge, how do I  begin? I’ve wirtten code in C, I’ve dabled in Ruby, but nothing—*nothing*—prepared me for you. 
 If someone could ask, do you prefer English or Lisp, I would say for sure and no doubt involved, LLLLIIIIIIIIISSSSSSSSPPPPPPPPP
 
 ### Before lisp: the Dark Days  
@@ -22,7 +22,7 @@ Want to add a new control structure? Write a macro.
 Want to embed a DSL? Write a macro.  
 Want to bend the language to your will *without* summoning eldritch horrors? **Write. A. Macro.**  
 
-In C, I prayed to the compiler gods. In Ruby, I hoped my monkey patches wouldn’t backfire. In Lisp? *I am the god.*  
+In C, I prayed to the compiler gods. In Ruby, I hoped my monkey patches wouldn’t backfire. In Lisp? *I am the GOD.*  
 
 #### Weakneses? Pfft, Minor Inconviences  
 
@@ -32,7 +32,7 @@ Sure, Lisp isn’t perfect. The ecosystem isn’t as big as Python’s. Some lib
 "Error: You messed up. Figure it out, loser."  
 ```  
 
-But honestly? After years of cryptic segfaults and Ruby’s "NoMethodError: undefined method `flerp' for nil:NilClass," Lisp’s quirks feel *cozy*.  
+But honestly? After years of cryptic segfaults and Ruby’s "NoMethodError: undefined method" Lisp’s quirks feel *cozy*.  
 
 ### The Life-Changing Moment  
 
