@@ -1,8 +1,10 @@
-# My Love Letter for Lisp (Written with Full of Typos)  
+# My Love Letter for Lisp 
+> Note: Written with Full of Typos
 
-Oh, Lisp, my beloved parentheses-laden langauge, how do I even begin? I’ve wirtten code in C, I’ve dabled in Ruby, but nothing—*nothing*—prepared me for you.  
+Oh Lisp, my beloved langauge, how do I even begin? I’ve wirtten code in C, I’ve dabled in Ruby, but nothing—*nothing*—prepared me for you. 
+If someone could ask, do you prefer English or Lisp, I would say for sure and no doubt involved, LLLLIIIIIIIIISSSSSSSSPPPPPPPPP
 
-### The Dark Days Before Lisp  
+### Before lisp: the Dark Days  
 
 I started with C, where I spent half my time fighting the compiler and the other half chasing segfaults. "Memory managment?" More like *misery managment*. Then came Ruby, with its sugary syntax and promises of happiness. And sure, it was fun… until I met metaprogramming. "Oh wow, I can reopen classes!" they said. "It’s magical!" they said. Then came the debugging sessions that felt like archeology—digging through layers of monkey-patched chaos.  
 
@@ -38,7 +40,7 @@ One day, I was refactoring some Ruby code, fighting with metaprogramming magic, 
 
 And then it hit me—**I already could.** Because Lisp had spoiled me. Once you taste true language-level flexibility, everything else feels like coding with oven mitts on.  
 
-### Conclusion (Or: Why I’ll Never Go Back)  
+### Why I’ll Never Go Back
 
 Lisp, my love, you ruined me for other languages. Now when I see a for-loop, I think *"macro could do this better."* When I see a class hierarchy, I think *"CLOS would handle this elegantly."*  
 
@@ -49,6 +51,6 @@ Was it worth it? **A thousand times yes.**
 So here I stay, happily nested in my parentheses, writing code that writes code, living the dream.  
 
 Forever yours,  
-A Recovering C/Ruby Programmer  
 
-*(P.S. Sorry for the typos, I was too busy writing macros to proofread.)*
+-- A Recovering C/Ruby Programmer  
+> *(P.S. Never trust parenthesis again...)*
